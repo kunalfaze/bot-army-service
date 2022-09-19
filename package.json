@@ -1,0 +1,11 @@
+{
+    "name": "bot-army-service-api",
+    "version": "1.0.0",
+    "description": "army of bots for flash challenges Python Flask API service with traditional Serverless Framework",
+    "author": "",
+    "devDependencies": {
+        "serverless-lift": "^1.20.2",
+        "serverless-python-requirements": "^5.1.0",
+        "serverless-wsgi": "^1.7.6"
+    }
+}
